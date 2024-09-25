@@ -118,20 +118,24 @@ nav ul li a {
 
 .text-container h4  {
   font-size: 16px;
+  font-size: 18px;
   font-weight: 500;
   text-decoration: none;
 }
 
 .text-container p {
   font-size: 16px;
+  font-size: 18px;
 }
 
 .text-container li {
   font-size: 16px;
+  font-size: 18px;
 }
 
 .text-container ul  {
   margin: 16px;
+  margin: 18px;
   text-align: left;
 }
 
